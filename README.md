@@ -26,8 +26,7 @@
 
 <div>
 <p align="center">
-<img width="26%" height = "140dp" src="https://we-co.tistory.com/67?category=876260">
-/>
+<img width="26%" height = "140dp" src="https://blog.kakaocdn.net/dn/LwJQS/btrgAL1Oz2u/YucoJYkYK37Q5IdeJcvskK/img.gif">
 </div>
 <br>
 <br>
@@ -59,4 +58,4 @@
 
 * Encoding 진행
 * Bidirectional RNN의 지식 습득
-* 데이터 학습 및 활용 -방법-
+* 데이터 학습 및 활용 방법 습득
